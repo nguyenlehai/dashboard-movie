@@ -27,6 +27,9 @@ export default defineConfig({
           },
         ],
       },
+      workbox: {
+        maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // Set to 5 MiB
+      },
     }),
   ],
   server: {
