@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+.vscode/
+public/
+.next-env.d.ts
