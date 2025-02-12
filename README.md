@@ -5,7 +5,7 @@
 - Vite + React 18 + TypeScript
 - TailwindCSS + Ant design
 - Zustand for state management
-- Recharts
+- Ant design charts
 - Socket + axios
 - Commitlint + husky + eslint + lint-staged + prettier
 - Support web view and mobile view
